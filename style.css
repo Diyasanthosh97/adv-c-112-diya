@@ -1,0 +1,30 @@
+body
+{
+  color: black;
+  background:aqua;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result1 ,#result2  
+{
+  color: black;
+}
+.emotioname
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+label{
+  font-size: 22px;
+}
